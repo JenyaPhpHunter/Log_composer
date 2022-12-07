@@ -1,0 +1,19 @@
+{
+    "name": "iteamylearning/phys",
+    "description": "Learning phys package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jenya",
+            "email": "jenyaphphunter@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Learning\\Phys\\": "src"
+        }
+    }
+}

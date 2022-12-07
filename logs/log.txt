@@ -1,0 +1,9 @@
+
+ 07-12-2022 17:41:22 some message to write some context 
+debug 07-12-2022 17:41:22 Some message value 
+ 07-12-2022 18:12:25 some message to write some context 
+debug 07-12-2022 18:12:25 Some message value 
+07-12-2022 18:12:53  some message to write some context 
+07-12-2022 18:12:53 debug Some message value 
+07-12-2022 18:18:11  some message to write some context 
+07-12-2022 18:18:11 debug Some message value 
