@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'itealearning/log_composer',
+        'name' => 'ribalkin/log_composer',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '74674fb32c67ba2e4fd54e74b3c065950775d565',
+        'reference' => '8a05c59cb673b1e119fc4400bebe003d49f1f07e',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -41,15 +41,6 @@
             'aliases' => array(
                 0 => '2.4.x-dev',
             ),
-            'dev_requirement' => false,
-        ),
-        'itealearning/log_composer' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '74674fb32c67ba2e4fd54e74b3c065950775d565',
-            'type' => 'project',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(),
             'dev_requirement' => false,
         ),
         'iteamylearning/phys' => array(
@@ -145,6 +136,15 @@
             'reference' => '120b605dfeb996808c31b6477290a714d356e822',
             'type' => 'library',
             'install_path' => __DIR__ . '/../ralouphie/getallheaders',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'ribalkin/log_composer' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '8a05c59cb673b1e119fc4400bebe003d49f1f07e',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
