@@ -7,3 +7,5 @@ debug 07-12-2022 18:12:25 Some message value
 07-12-2022 18:12:53 debug Some message value 
 07-12-2022 18:18:11  some message to write some context 
 07-12-2022 18:18:11 debug Some message value 
+07-12-2022 18:34:13  some message to write some context 
+07-12-2022 18:34:13 debug Some message value 
